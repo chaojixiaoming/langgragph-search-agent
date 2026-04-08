@@ -1,0 +1,9 @@
+langgraph
+langchain-community
+transformers
+torch
+tavily-python
+python-dotenv
+accelerate
+sentencepiece
+protobuf
