@@ -4,4 +4,3 @@ class State:
     need_search: bool
     search_query: str
     search_results: str
-    should_exit: bool
